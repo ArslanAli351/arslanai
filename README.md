@@ -1,5 +1,4 @@
 <img align="center" src="![alt text](Web-Development-1.jpg)" alt="arslan rajput" height="30" width="40" />
-nes=Welcome+to+my+GitHub+profile!;My+name+is+Arslan +Ali;I'm+a+Web +and+Mobile +App+developer)
 <h1 align="center">Hi 👋, I'm Arslan Ali</h1>
 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
