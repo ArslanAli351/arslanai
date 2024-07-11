@@ -2,11 +2,8 @@
     <h1 align="center">Hi 👋, I'm Arslan Ali</h1>
     <h1 align="center">Hi 👋, I'm Arslan Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
 - 🌱 I’m currently learning **Web and Mobile App development**
-
 - 📫 How to reach me **muhammadarslanrajput12@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/arslan rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arslan rajput" height="33" width="40" /></a>
