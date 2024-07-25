@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 - 🌱 I’m currently learning **Web and Mobile App development**
 - 📫 How to reach me **muhammadarslanrajput12@gmail.com**
-<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="laptop gif" width="400" height="400" align="right"/>
+<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="laptop gif" width="400" height="300" align="right"/>
 
 <h3 align="left">Connect with me:</h3>
 
