@@ -1,13 +1,17 @@
 
-    <h1 align="center">Hi 👋, I'm Arslan Ali</h1>
+<h1 align="center">Hi 👋, I'm Arslan Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 - 🌱 I’m currently learning **Web and Mobile App development**
 - 📫 How to reach me **muhammadarslanrajput12@gmail.com**
+<img src="c:\Users\hp system\Desktop\1ARS.gif" alt="laptop gif" width="400" height="400" align="right"/>
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://fb.com/arslan rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arslan rajput" height="33" width="40" /></a>
 <a href="https://www.linkedin.com/in/arslan-ali-5a66112bb/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vk5sZJ7hIkxLbeRTDNMrf83VJzNBdKeq3Q&s"height="40" width="45" /></a>
 <a href="mailto:muhammadarslanrajput12@gmail.com" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGhCbesLp4_2wY26RL6Ft8gRbT7q2lRvdt8w&s"height="35" width="40" /></a>
+
 <h3 align="left">Skills</h3>
 <p align="left"></a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
